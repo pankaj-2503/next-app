@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+---
+### NextJS Intro
+
+NextJS was a framework that was introduced because of some `minor inconviniences` in React
+
+1.  In a React project, you have to maintain a separate Backend project for your API routes
+
+2.  React does not provide out of the box routing (you have to use react-router-dom)
+
+3.  React is not SEO Optimised
+
+1.  not exactly true today because of React Server components
+2.  we’ll discuss soon why
+
+4.  Waterfalling problem
+---
 ## Getting Started
 
 First, run the development server:
